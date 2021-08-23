@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_attr">
+    <sys_ux_lib_component_attr action="DELETE">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>config</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>{size=md, tagline={label=Guided Walkthrough}, sidebar={color=positive}}</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>config</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <help/>
+        <hint/>
+        <internal_type display_value="String">string</internal_type>
+        <label>Config</label>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <model display_value="recro-guided-walkthrough">6911355984b91845a5e528f2000e09d3</model>
+        <model_id>6911355984b91845a5e528f2000e09d3</model_id>
+        <model_table/>
+        <name>var__m_sys_ux_lib_component_attr_6911355984b91845a5e528f2000e09d3</name>
+        <next_element/>
+        <order>100</order>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_ux_lib_component_attr</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-23 15:07:35</sys_created_on>
+        <sys_id>aec1834957e30b0145577cc325c4cd1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Config</sys_name>
+        <sys_package display_value="@recro/guided-walkthrough" source="x_recro_recro_gu_0">ba33a6191b4630104d9b2170604bcb93</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@recro/guided-walkthrough">ba33a6191b4630104d9b2170604bcb93</sys_scope>
+        <sys_update_name>sys_ux_lib_component_attr_aec1834957e30b0145577cc325c4cd1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-23 15:07:35</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_ux_lib_component_attr>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="@recro/guided-walkthrough">ba33a6191b4630104d9b2170604bcb93</application>
+        <file_path/>
+        <instance_id>256c7c21db7c64145749cac50596193a</instance_id>
+        <instance_name>recrollcdemo2</instance_name>
+        <name>sys_ux_lib_component_attr_aec1834957e30b0145577cc325c4cd1e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_lib_component_attr"&gt;&lt;sys_ux_lib_component_attr action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;config&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;{size=md, tagline={label=Guided Walkthrough}, sidebar={color=positive}}&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;config&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;label&gt;Config&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;255&lt;/max_length&gt;&lt;model display_value="recro-guided-walkthrough"&gt;6911355984b91845a5e528f2000e09d3&lt;/model&gt;&lt;model_id&gt;6911355984b91845a5e528f2000e09d3&lt;/model_id&gt;&lt;model_table/&gt;&lt;name&gt;var__m_sys_ux_lib_component_attr_6911355984b91845a5e528f2000e09d3&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_ux_lib_component_attr&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-08-23 15:07:35&lt;/sys_created_on&gt;&lt;sys_id&gt;aec1834957e30b0145577cc325c4cd1e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Config&lt;/sys_name&gt;&lt;sys_package display_value="@recro/guided-walkthrough" source="x_recro_recro_gu_0"&gt;ba33a6191b4630104d9b2170604bcb93&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="@recro/guided-walkthrough"&gt;ba33a6191b4630104d9b2170604bcb93&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_lib_component_attr_aec1834957e30b0145577cc325c4cd1e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-08-23 15:07:35&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_ux_lib_component_attr&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1769797594</payload_hash>
+        <record_name>Config</record_name>
+        <reverted_from/>
+        <source>3233a6191b4630104d9b2170604bcb96</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-23 15:07:36</sys_created_on>
+        <sys_id>057b6c971bc6b4104d9b2170604bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b738d77be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-23 15:07:36</sys_updated_on>
+        <type>Component Attribute</type>
+        <update_guid>8d7b6c9751c6b4100a2dc8e456a1cd5d</update_guid>
+        <update_guid_history>8d7b6c9751c6b4100a2dc8e456a1cd5d:-1769797594,b07b6c97c2c6b41087ff44ba92e3a357:376172550,807b6c9705c6b410ccbd0be58f4ee52b:-497849000,1c8d324f0586741093a9913c00b47b7d:992994028,148d324f6c867410df3e0f701f2cdb77:-165219636,9f7dfe0f6f867410077e709e710f33f5:-497849000,1c6ab0d6cf06f01087e0ab933823d0a5:992994028,c06ab0d67f06f01060c67f3dcd96a19f:-165219636,9b5ab4dea64eb01078836ee60a5be0ed:-497849000,482e1502b606b010bdecc036bf049d59:992994028,082e15024406b010ae0a47f5b491ce53:-165219636,231ed5c2084ab0106869bd7f46188602:-911320686,ab97118e0a0ab01035eb5bd025e627af:-1769797594,e397118ef70ab0107afea9cc05412cac:376172550,a797118e760ab0100bde4e05e40312a7:-1769797594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-23 15:48:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_lib_component_attr">sys_ux_lib_component_attr</sys_db_object>
+        <sys_id>42ea82b30c204b9c96ab70d3d3732c99</sys_id>
+        <sys_metadata>aec1834957e30b0145577cc325c4cd1e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Config</sys_name>
+        <sys_package display_value="@recro/guided-walkthrough" source="x_recro_recro_gu_0">ba33a6191b4630104d9b2170604bcb93</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="@recro/guided-walkthrough">ba33a6191b4630104d9b2170604bcb93</sys_scope>
+        <sys_scope_delete display_value="">1d975b5f2d074bf38474f26df273c871</sys_scope_delete>
+        <sys_update_name>sys_ux_lib_component_attr_aec1834957e30b0145577cc325c4cd1e</sys_update_name>
+        <sys_update_version display_value="sys_ux_lib_component_attr_aec1834957e30b0145577cc325c4cd1e">057b6c971bc6b4104d9b2170604bcb5e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-23 15:48:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
